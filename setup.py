@@ -29,7 +29,7 @@ for dirpath, dirnames, filenames in os.walk(package_dir):
  
 setup(name='django-protected-files',
     version='0.1',
-    description='A Django application that lets you serve protected static files via your frontend server after authenticating against the Django user database.',
+    description='A Django application that lets you serve protected static files via your frontend server after authorizing the user against django.contrib.auth.',
     author='Peter Baumgartner',
     author_email='pete@lincolnloop.com',
     url='http://github.com/lincolnloop/django-protected-files',
