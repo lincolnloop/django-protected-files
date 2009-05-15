@@ -29,3 +29,8 @@ To Do
 
 * Support alternative means of authorization (user, group, is_staff, etc.)
 * Support additional static servers (Lighttpd)
+
+Acknowledgements
+----------------
+
+Based on http://www.djangosnippets.org/snippets/491/
